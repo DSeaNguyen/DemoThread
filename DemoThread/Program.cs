@@ -18,7 +18,7 @@ class Program
         });
         t3.Start();
         //random comment
-
+        Console.WriteLine("KD dep trai nhat he mat troi");
         Console.ReadLine();
     }
 
